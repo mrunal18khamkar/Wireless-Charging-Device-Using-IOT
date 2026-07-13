@@ -1,5 +1,7 @@
 #IOT
 Here I have Used Arduino Uno and other componets which works on the principle of Mutual Induction.
+
+
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
